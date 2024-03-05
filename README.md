@@ -1,27 +1,44 @@
-# Pokedex
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/cadusamparo/pokedex/blob/main/LICENSE)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
+# Sobre o projeto
 
-## Development server
+Aplicação em Angular com ajuda de **[Curso de Angular 2 (v17+) Typescript do Básico ao Avançado](https://www.udemy.com/course/curso-de-angular/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Site:
+https://cadusamparo.github.io/pokedex/
 
-## Code scaffolding
+# Objetivos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Criar as pages
+- Criar service
+- Fazer a pasta home
+- Fazer os detalhes e a lista
+- Fazer com que consiga ter a barra de busca 
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Inicio
 
-## Running end-to-end tests
+![inicio](https://github.com/cadusamparo/pokedex/assets/128712778/985aa51a-a644-40cc-b5da-9d42a2d0939f)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Detalhes
+
+![detalhes](https://github.com/cadusamparo/pokedex/assets/128712778/b2b73a36-cd60-4504-b14e-2ed5ecafca7f)
+
+
+
+# Tecnologias utilizadas
+- JavaScript
+- CSS
+- HTML
+- JSON 
+- Angular
+
+# Autor
+Carlos Eduardo Braz Samparo
+
+[https://www.linkedin.com/in/carlos-eduardo](https://www.linkedin.com/in/carlos-eduardo-b4761326a/)
