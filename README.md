@@ -33,7 +33,7 @@ https://cadusamparo.github.io/pokedex/
 
 # Tecnologias utilizadas
 - JavaScript
-- CSS
+- SCSS
 - HTML
 - JSON 
 - Angular
